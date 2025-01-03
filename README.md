@@ -1,8 +1,11 @@
+
 # Hi there, I'm Deekshith! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F70000&width=500&height=45&lines=Software+Engineer+%7C+ML+Enthusiast+%7C+AI+Researcher;Cloud+Architect+in+training;Always+learning+new+things+%F0%9F%92%BB" alt="Typing SVG" />
+  <!-- Adjust 'color', 'size', 'lines', and 'width' as you like -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=45&lines=Software+Engineer+%7C+ML+Enthusiast;AI+Researcher+%7C+Salesforce+Architect;Cloud+Architect+in+Training;Always+Learning+New+Things+%F0%9F%92%BB" alt="Typing SVG" />
 </div>
+
 
 ## 🙋‍♂️ About Me
 
