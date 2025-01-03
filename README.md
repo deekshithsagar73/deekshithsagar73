@@ -73,13 +73,7 @@
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ---
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deekshithsagar73/deekshithsagar73/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deekshithsagar73/deekshithsagar73/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/deekshithsagar73/deekshithsagar73/output/github-snake.svg" />
-  </picture>
-</div>
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -94,6 +88,13 @@
 </div>
 
 ---
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deekshithsagar73/deekshithsagar73/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deekshithsagar73/deekshithsagar73/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/deekshithsagar73/deekshithsagar73/output/github-snake.svg" />
+  </picture>
+</div>
 
 ## 🏆 GitHub Trophies
 
