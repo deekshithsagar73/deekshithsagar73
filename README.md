@@ -1,19 +1,14 @@
 # Hi there, I'm Deekshith! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 <div align="center">
-  
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F70000&width=500&height=45&lines=Software+Engineer+%7C+ML+Enthusiast+%7C+AI+Researcher;Cloud+Architect+in+training;Always+learning+new+things+%F0%9F%92%BB" alt="Typing SVG" />
-  
 </div>
 
 ## 🙋‍♂️ About Me
 
-- **Recent graduate** from the University at Buffalo in **Computer Science (AI/ML specialization)**  
-- **4 years of experience** in Software Engineering / Leading teams  
-- Currently **researching and creating** innovative software applications with LLMs  
-- Pursuing **AWS Solutions Architect Certification**  
-- Looking for **Software Development roles** where I can apply my AI/ML expertise  
-- I enjoy **collaborating on team projects** that can impact a **large audience** and simplify work
+I'm **Deekshith**, a recent graduate from the **University at Buffalo** in **Computer Science (AI/ML specialization)** with **4 years of experience** in Software Engineering and team leadership. Currently, I'm focused on **researching and creating** innovative LLM-based applications, while also pursuing an **AWS Solutions Architect Certification**.  
+
+I'm actively seeking **Software Development roles** where I can apply my AI/ML expertise. I thrive in **collaborative teams** that aim to make a **large-scale impact** and simplify everyday workflows.
 
 ---
 
@@ -60,6 +55,10 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
+### Integration & CRM
+![Mulesoft](https://img.shields.io/badge/Mulesoft-0071C5?style=for-the-badge&logo=mulesoft&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+
 ### DevOps & CI/CD
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
@@ -92,6 +91,17 @@
 
 ---
 
+## 🐍 GitHub Contribution Snake
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deekshithsagar73/deekshithsagar73/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deekshithsagar73/deekshithsagar73/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/deekshithsagar73/deekshithsagar73/output/github-snake.svg" />
+  </picture>
+</div>
+
+---
+
 ### ✍️ Random Dev Quote
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
@@ -103,7 +113,4 @@
   <img src="https://visitcount.itsvg.in/api?id=deekshithsagar73&icon=0&color=0" alt="Profile Views" />
 </p>
 
-<!-- 
-  Feel free to customize the sections, add or remove badges, 
-  or rearrange as you see fit. Good luck with your job search!
--->
+
