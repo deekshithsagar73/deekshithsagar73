@@ -18,6 +18,9 @@
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deekshithsagar)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=flat&logo=gmail&logoColor=white)](mailto:deekshithsagar73@gmail.com)
+[![Website](https://img.shields.io/badge/Website-%23000000.svg?style=flat&logo=About.me&logoColor=white)](https://deekshithsagar.netlify.app)
+
 
 ---
 
