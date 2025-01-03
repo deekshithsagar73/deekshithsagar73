@@ -6,9 +6,12 @@
 
 ## 🙋‍♂️ About Me
 
-I'm **Deekshith**, a recent graduate from the **University at Buffalo** in **Computer Science (AI/ML specialization)** with **4 years of experience** in Software Engineering and team leadership. Currently, I'm focused on **researching and creating** innovative LLM-based applications, while also pursuing an **AWS Solutions Architect Certification**.  
-
-I'm actively seeking **Software Development roles** where I can apply my AI/ML expertise. I thrive in **collaborative teams** that aim to make a **large-scale impact** and simplify everyday workflows.
+- 🎓 **AI/ML Grad** from University at Buffalo  
+- 💼 **4+ Years** in Software Engineering & Leadership  
+- 🤖 **LLM Innovator**: Building cutting-edge AI solutions  
+- ☁️ **AWS Solutions Architect** in training  
+- 🔗 **3x Salesforce Certs**: Architect & Developer  
+- 🤝 **Team Collaborator**: Always open to new challenges
 
 ---
 
